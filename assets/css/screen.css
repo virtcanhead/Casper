@@ -957,7 +957,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content hr {
-    margin: 4vw 0;
+    margin: 1vw 0;
 }
 
 .post-full-content hr:after {
@@ -1865,7 +1865,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content figure {
-    margin: 1.5em 0 3em;
+    margin: 1.5em 0 1.5em;
 }
 
 .post-full-content figure img {
