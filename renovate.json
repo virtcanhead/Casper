@@ -1,11 +1,12 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    "schedule:earlyMondays"
   ],
   "packageRules": [
     {
       "packagePatterns": ["^postcss", "css", "autoprefixer"],
-      "groupName": "css"
+      "groupName": "css processors"
     },
     {
       "packagePatterns": ["gulp"],
